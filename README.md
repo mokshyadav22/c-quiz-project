@@ -1,6 +1,6 @@
-# C Quiz Game
+# C Quiz Game 
 
-A simple interactive quiz game built using C as a first college project.
+A simple interactive quiz game built using C as a LTPS college project.
 
 ## How to Run
 1. Download the `quiz.c` file.
